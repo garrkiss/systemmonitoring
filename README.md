@@ -50,7 +50,7 @@ P.S.: если при запуске некоторые контейнеры б�
 `./data:/var/lib:Z`
 
 Ответ
-![Скриншот](https://github.com/garrkiss/teamcity/blob/main/img/jar.png)
+![Скриншот](https://github.com/garrkiss/systemmonitoring/blob/main/img/tick.png)
 
 #
 8. Перейдите в веб-интерфейс Chronograf (http://localhost:8888) и откройте вкладку Data explorer.
@@ -63,7 +63,7 @@ P.S.: если при запуске некоторые контейнеры б�
 Для выполнения задания приведите скриншот с отображением метрик утилизации cpu из веб-интерфейса.
 
 Ответ
-![Скриншот](https://github.com/garrkiss/teamcity/blob/main/img/jar.png)
+![Скриншот](https://github.com/garrkiss/systemmonitoring/blob/main/img/%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA.png)
 
 #
 9. Изучите список [telegraf inputs](https://github.com/influxdata/telegraf/tree/master/plugins/inputs). 
@@ -96,4 +96,4 @@ P.S.: если при запуске некоторые контейнеры б�
 Факультативно можете изучить какие метрики собирает telegraf после выполнения данного задания.
 
 Ответ
-![Скриншот](https://github.com/garrkiss/teamcity/blob/main/img/jar.png)
+![Скриншот](https://github.com/garrkiss/systemmonitoring/blob/main/img/image.png)
